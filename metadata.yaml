@@ -1,0 +1,42 @@
+_repo: Minor-Dialogues-Together-With-the-Dialogue-on-Clemency_64576
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Stewart, Aubrey
+    birthdate: 1844
+    deathdate: 1918
+    gutenberg_agent_id: '1309'
+    url: http://www.gutenberg.org/2009/agents/1309
+creator:
+  author:
+    agent_name: Seneca, Lucius Annaeus
+    aliases:
+    - Seneca, Annaeus
+    - Seneca, L. A. (Lucius Annaeus)
+    - Annaeus Seneca, Lucius
+    deathdate: 65
+    gutenberg_agent_id: '1308'
+    url: http://www.gutenberg.org/2009/agents/1308
+    wikipedia: https://en.wikipedia.org/wiki/Seneca_the_Younger
+description: ''
+gutenberg_issued: '2021-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64576'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political ethics -- Early works to 1800'
+- !lcsh 'Education of princes -- Early works to 1800'
+- !lcsh 'Mercy -- Early works to 1800'
+- !lcc 'PA'
+- !lcsh 'Latin prose literature -- Translations into English'
+- GITenberg
+tableOfContents: Of providence -- On the firmness of the wise man -- Of anger -- Of
+  consolation, to Marcia -- Of a happy life -- Of leisure -- Of peace of mind -- Of
+  the shortness of life -- Of consolation, to Helvia -- Of consolation, to Polybius
+  -- Of clemency.
+title: Minor Dialogues, Together With the Dialogue on Clemency
+url: http://www.gutenberg.org/ebooks/64576
