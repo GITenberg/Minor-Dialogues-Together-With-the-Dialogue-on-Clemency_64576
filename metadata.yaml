@@ -7,6 +7,9 @@ contributor:
     deathdate: 1918
     gutenberg_agent_id: '1309'
     url: http://www.gutenberg.org/2009/agents/1309
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Seneca, Lucius Annaeus
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1308
     wikipedia: https://en.wikipedia.org/wiki/Seneca_the_Younger
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64576#Minor-Dialogues-Together-With-the-Dialogue-on-Clemency
 gutenberg_issued: '2021-02-16'
 gutenberg_type: Text
 identifiers:
